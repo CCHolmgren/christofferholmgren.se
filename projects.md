@@ -9,8 +9,6 @@ sidebar_link: true
 
 Languages: **PHP**, **JavaScript**, other techniques: **Laravel**, **Vue.js**, **Foundation 6**.
 
-### theiterativeblog
-
 ### Reexguide (was Restaurant List)
 ![](/assets/img/ss+2015-10-25+at+02.07.36.jpg)
 [Reexguide](https://www.reexguide.com/) is a page to find and explore restaurants. It's difficult to find new ones, tiresome to search for them, and which ones have you visited? Those are the problems that Reexguide tries to alleviate.
