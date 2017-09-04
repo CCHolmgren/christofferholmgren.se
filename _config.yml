@@ -26,3 +26,5 @@ github:
   repo:             https://github.com/ccholmgren/
 
 google_analytics: 'UA-105774586-1'
+
+include: _headers
